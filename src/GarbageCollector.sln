@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarbageCollector", "GarbageCollector\GarbageCollector.csproj", "{82C61E96-B189-4689-88A7-8EF7D4B34F71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCHook", "GCHook\GCHook.csproj", "{D99FA3F2-AEDE-48FB-8772-BEEC6A7C2332}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Installer", "Installer\Installer.csproj", "{BF12883F-948B-462C-8814-CC9CD3FC9500}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82C61E96-B189-4689-88A7-8EF7D4B34F71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82C61E96-B189-4689-88A7-8EF7D4B34F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82C61E96-B189-4689-88A7-8EF7D4B34F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82C61E96-B189-4689-88A7-8EF7D4B34F71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D99FA3F2-AEDE-48FB-8772-BEEC6A7C2332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D99FA3F2-AEDE-48FB-8772-BEEC6A7C2332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D99FA3F2-AEDE-48FB-8772-BEEC6A7C2332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D99FA3F2-AEDE-48FB-8772-BEEC6A7C2332}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF12883F-948B-462C-8814-CC9CD3FC9500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF12883F-948B-462C-8814-CC9CD3FC9500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF12883F-948B-462C-8814-CC9CD3FC9500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF12883F-948B-462C-8814-CC9CD3FC9500}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
